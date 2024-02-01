@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace PrácticaCV_MaríaCB
 {
-    internal class Clase_MariaCB
+    public class Clase_MariaCB
     {
+        // CONSTANTES 
+
+        // VARIABLES
+
+        // ENTRADA
+
+        // PROCESO
+
+        // SALIDA
     }
 }
