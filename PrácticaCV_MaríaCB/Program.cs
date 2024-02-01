@@ -1,4 +1,6 @@
-﻿namespace PrácticaCV_MaríaCB
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PrácticaCV_MaríaCB
 {
     internal class Program
     {
@@ -13,6 +15,7 @@
             // PROCESO
 
             // SALIDA
+            Console.WriteLine("Mi nombre es: María Carvajal Blanco");
         }
     }
 }
